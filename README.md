@@ -31,10 +31,15 @@ Classes: The model is trained to segment:Person,Tree,Building,Vehicle,Background
 
 ## 4. Installation
 This project requires Python 3.10+ and PyTorch. To install the necessary packages, run:
+```text
 pip install -r requirements.txt
+```
 
 ## 5. Usage
-To train the LCA-Net from scratch or using pre-trained weights:python train.py
+To train the LCA-Net from scratch or using pre-trained weights:
+```text
+python train.py
+```
 
 ## 6. Replicability Note
 In accordance with the Replicable Research Principle of the journal, we provide the full source code and annotation files. Any researcher can reproduce our results by following the steps above.
