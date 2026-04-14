@@ -29,12 +29,12 @@ Annotations: We provide the refined labels in the data/folder. Extract new label
 
 Classes: The model is trained to segment:Person,Tree,Building,Vehicle,Background (other corridor elements)
 
-##4. Installation
+## 4. Installation
 This project requires Python 3.10+ and PyTorch. To install the necessary packages, run:
 pip install -r requirements.txt
 
-##5. Usage
+## 5. Usage
 To train the LCA-Net from scratch or using pre-trained weights:python train.py
 
-##6. Replicability Note
+## 6. Replicability Note
 In accordance with the Replicable Research Principle of the journal, we provide the full source code and annotation files. Any researcher can reproduce our results by following the steps above.
