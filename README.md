@@ -18,6 +18,7 @@ LCA-Net-Project/
 │   └── loss.py               # Loss functions 
 ├── train.py                  # Main training script
 └── requirements.txt          # Python dependencies
+```
 
 ## 3. Dataset Preparation
 The datasets used in this study are derived from public sources and have been meticulously re-annotated for power line hazard recognition tasks.
