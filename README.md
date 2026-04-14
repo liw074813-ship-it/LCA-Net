@@ -7,6 +7,7 @@ This repository contains the official implementation of the paper:
 LCA-Net is a deep learning model specifically designed for identifying potential hazards (such as trees, buildings, and vehicles) in power line corridor environments. It is built upon the DeepLabv3+ framework with a ResNet-18 backbone, incorporating a novel Lightweight Context-Attention (LCA) module to balance segmentation accuracy and real-time performance on edge devices.
 
 ## 2. Repository Structure
+```text
 LCA-Net-Project/
 ├── data/
 │   └── new label.zip         # Re-annotated hazard labels for power line scenes
